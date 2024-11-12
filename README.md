@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="./banner.png" alt="Banner" width="550"/>
+<img src="./banner.png" alt="Banner" width="400"/>
 
 self taught open source software developer. 20 year-old student based in turkey. <br>i learn with ai, i code with ai, i produce with ai.<br><br>
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mirac.dev?subject=[GitHub])
@@ -27,8 +27,8 @@ self taught open source software developer. 20 year-old student based in turkey.
 ![OS](https://img.shields.io/badge/OS-%23000000.svg?style=for-the-badge&logo=ghost&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)<br><br>
-# github stats.
-![](https://github-readme-stats.vercel.app/api?username=lilmirac&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilmirac&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
----
+<!--# github stats.-->
+<!--![](https://github-readme-stats.vercel.app/api?username=lilmirac&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>-->
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=lilmirac&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)-->
+<!--! --- -->
 </div>
