@@ -2,7 +2,7 @@
   
 <img src="./banner.png" alt="Banner" width="400"/>
 
-self taught open source software developer. 20 year-old student based in turkey. <br>i learn with ai, i code with ai, i produce with ai.<br><br>
+junior full stack developer. 19 year-old student based in turkey. <br>i learn with ai, i code with ai, i produce with ai.<br><br>
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@mirac.dev?subject=[GitHub])
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://mirac.dev)
 <!-- [![Github](https://img.shields.io/github/followers/lilmirac?label=Follow&style=social)](https://github.com/lilmirac) -->
